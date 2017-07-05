@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.fnst.smartwork</string>
+				<string>com.watsons.beautylive.Company</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.3.0.67</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>smartwork.ipa</string>
+				<string>BeautylifeInHouse.ipa</string>
 			</dict>
 		</dict>
 	</array>
